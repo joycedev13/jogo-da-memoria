@@ -4,7 +4,7 @@ Um jogo interativo desenvolvido em HTML, CSS e JavaScript para treinar sua memó
 
 ## 🎮 Acesse o Jogo  
 Clique no link abaixo para jogar:  
-[**Jogo da Memória**](https://joycedev13.github.io/jogo-da-memoria/)  
+[**Jogo da Memória**]( https://joycedev13.github.io/jogo-da-memoria/)  
 
 ## 🛠 Tecnologias Utilizadas  
 - **HTML**: Estrutura da aplicação.  
